@@ -20,7 +20,6 @@ copyright = "&copy;2021 Humair ALi"
   # Metadata for search engines and social sharing
   author = "Humair Ali"
   description = "Tester, SQA"
-  enable = true
   shareImage = "images/social.jpg"
   twitterHandle = "humairpalh"
 
