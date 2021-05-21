@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://keen-neumann-d9171c.netlify.app"
 languageCode = "en-US"
 title = "Humair Ali - Software QA Engineer"
 theme = "hugo-split-theme2"
