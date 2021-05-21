@@ -2,7 +2,7 @@
 baseURL = "https://example.com"
 languageCode = "en-US"
 title = "Humair Ali - Software QA Engineer"
-theme = "hugo-split-theme"
+theme = "hugo-split-theme2"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Local preview mode
