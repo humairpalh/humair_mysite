@@ -52,7 +52,7 @@ copyright = "&copy;2021 Humair ALi"
       
       [[params.links.list1.link]]
         text = "Email"
-        url = "mailto:humairpalh@live.com"
+        url = "mailto:hey@humair.me"
 
   # Links List #2
   [[params.links]]
@@ -61,7 +61,7 @@ copyright = "&copy;2021 Humair ALi"
 
       [[params.links.list2.link]]
         text = "Twitter"
-        url = "#"
+        url = "https://twitter.com/humairpalh"
 
     
 
