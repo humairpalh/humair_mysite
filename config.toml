@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://keen-neumann-d9171c.netlify.app"
+baseURL = "https://humair.me"
 languageCode = "en-US"
 title = "Humair Ali - Software QA Engineer"
 theme = "hugo-split-theme2"
